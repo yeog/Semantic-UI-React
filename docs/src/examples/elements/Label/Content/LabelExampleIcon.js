@@ -4,7 +4,7 @@ import { Icon, Label } from 'semantic-ui-react'
 const LabelExampleIcon = () => (
   <div>
     <Label as='a'>
-      <Icon name='mail' />
+      <Icon name='mail:not important issue to you' />
       Mail
     </Label>
     <Label as='a'>
